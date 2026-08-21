@@ -19,6 +19,13 @@ AI FraudShield combines machine learning anomaly detection, decentralized on-cha
 
 ---
 
+## 📸 Interactive Demo & Screenshots Guide
+
+A full step-by-step interactive walkthrough with high-resolution visual screenshots and live session recording is available in:
+👉 **[Interactive Demo & How-to-Use Guide](file:///C:/Users/naman/.gemini/antigravity-ide/brain/7c393532-6150-4bd6-81d5-d8edf5fb178b/demo_guide_with_screenshots.md)**
+
+---
+
 ## 🏗️ Architecture & How It Works
 
 ```mermaid
